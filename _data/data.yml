@@ -66,16 +66,27 @@ experiences:
       company: ExteNet Systems, Inc
       details: |
         •	Manage and maintain the entire organization enterprise GIS system, ArcGIS Server, ArcGIS online , enterprise Geodatabases. 
+        
         •	Act as SME to solve any task or assist others with issues requiring complex workflows
+        
         •	Performs implementation and integration tasks for medium to large, complex in-house developed or purchased software solutions
+        
         •	Work with vendors on the integration and implementation of purchased solutions.
+        
         •	Geodatabases design, modeling, data ETL, administration and Integration with various organization’s platforms.
+        
         •	Integrating GIS data with Microsoft Dynamics CRM 365 and Salesforce Site tracker to help the sales team to make informed data driven decisions.
+        
         •	Performing complex spatial data analysis to support strategic business development.
+        
         •	Write Python and SQL scripts for tasks automation and data ETL.
+        
         •	Meet with end-users to gather system requirements, analyze business rules, and make recommendations for technical solutions and Set standards for mapping procedures.
+        
         •	Ensure data integrity by performing Quality Assurance and Quality Control tasks
+        
         •	Develop methods and data collection warehouses for future proofing data management.
+        
         •	Reports, Dashboards, and maps creation.
 
     - role: GIS administrator 
@@ -83,20 +94,31 @@ experiences:
       company: GeoMOLG
       details: |
         •	Meet with municipalities to gather the needs and make recommendations and technical solutions for local government GIS systems.
+
         •	Develop data ETL procedures from CAD to GIS using FME.
+
         •	GIS Database Administration, requirement gathering, Modeling, Data ETL, and Integration with various organization’s platforms.
+
         •	GIS system Administration (ArcGIS server, Geocortex, Cityworks).
+
         •	Configuring and creating GIS and asset management web applications for citizens engagement.
+
         •	Prepare technical documentation, project requirements, TORs, and implementation plans.
+
         •	Checking and approving photogrammetry outputs: AT, Stereo Models, DEM, 3D mapping, orthophoto, and contour maps.
+        
         •	Developing workflows documentations and conducting trainings in GIS, Photogrammetry for municipalities and local government.
+        
         •	Reports and Presentations.
+        
     - role: GIS expert (Part Time)
       time: 2016 - 2016
       company: German Cooperation GIZ
       details: |
         •	Assist the GIZ water program to create a GIS database to map water/sewer projects to improve the planning capacity.
+        
         •	Providing recommendations for further activities related to GIS.
+        
         •	Providing a road a head plan for developing the GIS sector for GIZ and its partners, mainly in water utilities  activities.
 
 projects:
