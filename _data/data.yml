@@ -30,28 +30,27 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Reading
         link:
 
-      - item: Snowboarding
+      - item: Coding
         link:
 
-      - item: Cooking
+      - item: Swimming
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+            7+ years demonstrated experience in designing, architecting, managing and supporting enterprise-level GIS systems in Telecom and local government fields.
+            My diverse job history enabled me to wear multiple hats and work closely with IT, GIS and sales departments in the aspects of systems design, integration,
+            development and optimization in order to achieve the key business objectives.
+            I enjoy coding, testing, and integration. Seeking new challenges and opportunities to leverage and to learn from.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Masters of Science in GIS
+      university: The Johns Hopkins University
+      time: 2018 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -60,9 +59,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Civil Engineering 
+      university: Birzeit University
+      time: 2008 - 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
