@@ -102,9 +102,7 @@ experiences:
 projects:
     title: Technical Certification
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      List of  Technical achievements   
     assignments:
       - title: FME Certified Professional 
         link: "https://www.safe.com/partners/certification/wall-of-fame/"
@@ -117,54 +115,40 @@ projects:
                   and troubleshooting of common Esri technology issues. Earner will demonstrate knowledge designing and implement enterprise information systems in small to large organizations with Esri's ArcGIS technology."
 
       - title: ArcGIS Desktop Associate 10.3
-        link: "https://www.certmetrics.com/esri/public/verification.aspx?code=YFVXWFDC2NEQ5DWJ"
+        link: "https://www.youracclaim.com/badges/e8b4e14e-edb7-4af1-8fda-6b1f82043aea"
         tagline: "Earners of the Esri ArcGIS Desktop Associate certification have proven experience in applying ArcGIS concepts and processes to workflows. 
                   Earners have demonstrated proficiency using ArcGIS to visualize, manage, and analyze geospatial data."
 
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Esri ArcGIS Stack
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Python
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: SQL
+        level: 85%
+
+      - name: FME
+        level: 98%
+
+      - name: AWS Cloud Computing
         level: 60%
+        
+      - name: Bigdata &  Machine learning 
+        level: 40%
+
+      - name: Javascript & HTML5 & CSS
+        level: 60%
+        
+      - name: Autodesk AutoCAD
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
