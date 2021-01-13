@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Ahmad Saleh
-    tagline: GIS Developer Developer
+    tagline: GIS Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -21,13 +21,10 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Arabic
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
 
     interests:
       - item: Reading
@@ -52,71 +49,66 @@ education:
       university: The Johns Hopkins University
       time: 2018 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Masters Degree in Geospatial Data Science and Predictive Analytics, wiht focus on advanced GIS tools and computer science. 
+        Courses in: Spatial Analytics, Web GIS, Programming in GIS, Artificial Intelligence and Machine Learning in Geospatial Technology, 
+        Big Data Analytics: Tools and Techniques, Spatial Databases and Data Interoperability
     - degree: BSc in Civil Engineering 
       university: Birzeit University
       time: 2008 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+       Bachelor degree in civil engineering, with deep understanding and exposure to Math and Physics. 
+       Courses In: Calculus, Linear Algebra, Numerical Methods, Ordinary Differential Equations, Dynamics,
+       Probability And Engineering Statistics, Engineering Geology, Mechanics Of Materials, Civil Engineering Drawing,
+       Surveying For Civil Engineering, Structural Analysis, Construction Management, Hydrology And Hydraulics,
+       Reinforced Concrete Design, Highway Engineering, Water Supply And Sanitation, Highway Engineering, AutoCAD, GIS
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: GIS Developer 
+      time: 2017 - Present
+      company: ExteNet Systems, Inc
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        •	Manage and maintain the entire organization enterprise GIS system, ArcGIS Server, ArcGIS online , enterprise Geodatabases. 
+        •	Act as SME to solve any task or assist others with issues requiring complex workflows
+        •	Performs implementation and integration tasks for medium to large, complex in-house developed or purchased software solutions
+        •	Work with vendors on the integration and implementation of purchased solutions.
+        •	Geodatabases design, modeling, data ETL, administration and Integration with various organization’s platforms.
+        •	Integrating GIS data with Microsoft Dynamics CRM 365 and Salesforce Site tracker to help the sales team to make informed data driven decisions.
+        •	Performing complex spatial data analysis to support strategic business development.
+        •	Write Python and SQL scripts for tasks automation and data ETL.
+        •	Meet with end-users to gather system requirements, analyze business rules, and make recommendations for technical solutions and Set standards for mapping procedures.
+        •	Ensure data integrity by performing Quality Assurance and Quality Control tasks
+        •	Develop methods and data collection warehouses for future proofing data management.
+        •	Reports, Dashboards, and maps creation.
+
+    - role: GIS administrator 
+      time: 2014 - 2017
+      company: GeoMOLG
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
+        •	Meet with municipalities to gather the needs and make recommendations and technical solutions for local government GIS systems.
+        •	Develop data ETL procedures from CAD to GIS using FME.
+        •	GIS Database Administration, requirement gathering, Modeling, Data ETL, and Integration with various organization’s platforms.
+        •	GIS system Administration (ArcGIS server, Geocortex, Cityworks).
+        •	Configuring and creating GIS and asset management web applications for citizens engagement.
+        •	Prepare technical documentation, project requirements, TORs, and implementation plans.
+        •	Checking and approving photogrammetry outputs: AT, Stereo Models, DEM, 3D mapping, orthophoto, and contour maps.
+        •	Developing workflows documentations and conducting trainings in GIS, Photogrammetry for municipalities and local government.
+        •	Reports and Presentations.
+    - role: GIS expert (Part Time)
+      time: 2016 - 2016
       company: Amazon, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        •	Assist the GIZ water program to create a GIS database to map water/sewer projects to improve the planning capacity.
+        •	Providing recommendations for further activities related to GIS.
+        •	Providing a road a head plan for developing the GIS sector for GIZ and its partners, mainly in water utilities  activities.
+
 projects:
-    title: Projects
+    title: Technical Certification
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
+      - title: FME Certified Professional 
+        link: "https://www.safe.com/partners/certification/wall-of-fame/"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
