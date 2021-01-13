@@ -14,7 +14,6 @@ sidebar:
     # Sidebar links
     email: AhmadSaleh009 [at] gmail.com
     phone: +1 708 6235153
-    website: blog.webjeda.com #do not add http://
     linkedin: ahmadsaleh009
     github: ahmadsaleh009
 
@@ -94,7 +93,7 @@ experiences:
         •	Reports and Presentations.
     - role: GIS expert (Part Time)
       time: 2016 - 2016
-      company: Amazon, London
+      company: German Cooperation GIZ
       details: |
         •	Assist the GIZ water program to create a GIS database to map water/sewer projects to improve the planning capacity.
         •	Providing recommendations for further activities related to GIS.
@@ -109,23 +108,19 @@ projects:
     assignments:
       - title: FME Certified Professional 
         link: "https://www.safe.com/partners/certification/wall-of-fame/"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "FME (the Feature Manipulation Engine) is a data integration tool used for transforming data and complex data ETL tasks."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Enterprise System Design Associate 10.5
+        link: "https://www.youracclaim.com/badges/78c2fcac-45ed-4ffd-b981-0573fb635c0f?source=linked_in_profile"
+        tagline: "Earners of the Esri Enterprise System Design Associate certification have proven experience with enterprise and solution architecture.
+                  Earners will be proficient in best practices related to the application of configuration changes, continuous monitoring and maintenance,
+                  and troubleshooting of common Esri technology issues. Earner will demonstrate knowledge designing and implement enterprise information systems in small to large organizations with Esri's ArcGIS technology."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: ArcGIS Desktop Associate 10.3
+        link: "https://www.certmetrics.com/esri/public/verification.aspx?code=YFVXWFDC2NEQ5DWJ"
+        tagline: "Earners of the Esri ArcGIS Desktop Associate certification have proven experience in applying ArcGIS concepts and processes to workflows. 
+                  Earners have demonstrated proficiency using ArcGIS to visualize, manage, and analyze geospatial data."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
